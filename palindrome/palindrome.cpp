@@ -1,4 +1,9 @@
-
+/*
+Author: Min Kim
+Program Description:
+This program will check if your input is a palindrome or not. Punctuation and whether a letter is uppercase or lowercase does not matter.
+Date: 9/23/22
+ */
 #include <iostream>
 #include <algorithm>
 using namespace std;
